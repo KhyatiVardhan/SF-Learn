@@ -50,5 +50,5 @@ export default class TreeGridDemo extends LightningElement {
 
     getSelectedRows(event){
         const selectedRows = event.detail.selectedRows;
-    }
+    } 
 }
